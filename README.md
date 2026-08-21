@@ -2,7 +2,8 @@
 
 ## Features
 
-* Only contains HTML elements. No CCS or JS.
+* **Pure HTML**: Only contains HTML elements. No CCS or JS.
+* **High Compatibility**: Almost fully compatible with IE 11, with basic compatibility for IE 6.
 
 ## Notes
 
